@@ -1,0 +1,3 @@
+(executables
+ (names power)
+ (modes byte))

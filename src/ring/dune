@@ -1,0 +1,3 @@
+(executables
+ (names ring)
+ (modes byte))
